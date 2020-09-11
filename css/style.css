@@ -102,6 +102,7 @@
        display:block;
        font-size:15px;
        line-height: 16px;
+       color: #eeeeee;
    }
    
    #nav-bar nav a.active{
